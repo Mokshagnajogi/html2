@@ -1,0 +1,73 @@
+<html>
+<head>
+<title>flipcart</title>
+<style>
+#buston{
+position:absolute;
+
+colour:blue;
+}
+a{
+padding:10px;
+color:blue;
+position:relative;
+top:10px;
+left:900px;
+}
+img{
+position:absolute;
+top:150px;
+left:1000px
+}
+#b{
+color:white;
+background-color:red
+}
+#c{
+position:absolute;
+top:175px;
+left:500px;
+font-size:20px;
+color:red;
+}
+
+#d{
+position:absolute;
+top:200px;
+left:500px;
+font-size:50px;
+color:black;
+}
+#e{
+position:absolute;
+top:450px;
+left:500px;
+background-color:red;
+color:white;
+}
+
+
+
+
+</style>
+
+</head>
+<body>
+<h1 id="buston">Buson.</h1>
+<div>
+<a herf=" " >HOME</a>
+<a herf=" ">ABOUT</a>
+<a herf=" " >SERVIES</a>
+<a herf=" "  >CASES</a>
+<a herf=" " >BLOG</a>
+<a herf=" ">PAGES</a>
+<a herf=" " ><button id="b">CONTACT NOW</button></a>
+</div>
+<img src="images/photo.avif" width="400px" height="330px">
+
+<h1 id="c">welcome to buson</h1>
+<h1 id="d">WE HELP YOU <br>TO GROW YOUR<br> BUSINESS   </h1>
+<button id="e">learn more</button>
+
+</body>
+</html>
